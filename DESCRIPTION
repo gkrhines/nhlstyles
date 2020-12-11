@@ -1,0 +1,11 @@
+Package: nhlstyles
+Type: Package
+Title: Gaussian Mixture Model to Describe NHL Skaters' On-Ice Behavior
+Version: 0.1.0
+Author: Grant Rhines
+Maintainer: Grant Rhines <grantrhines17@outlook.com>
+Description: Executes clustering via a Gaussian Mixture Model anaysis to describe the on-ice behavior of NHL skaters. Input data should be in the same format as showcased in the gkrhines/nhlscrapR package.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
