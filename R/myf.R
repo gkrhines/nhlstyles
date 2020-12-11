@@ -1,6 +1,7 @@
 #' Test Function
 #'
 #' Takes a vector and returns a vector and returns a vector of squared components
+#' TEST TEST
 #'
 #' @param x
 #'
